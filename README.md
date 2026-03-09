@@ -103,7 +103,7 @@ Preparing slides summarizing the project workflow, insights, forecasting results
 
 ## Instructor
 
-*
+*Abdelrahman Ashour
 
 ---
 
