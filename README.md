@@ -110,5 +110,3 @@ Preparing slides summarizing the project workflow, insights, forecasting results
 ## Project Files
 
 You can find the full project files here:
-
-[Insert Google Drive Link Here]
